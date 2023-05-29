@@ -4,7 +4,7 @@ import './../App.css'
 function ProjectCard({title, description, imgUrl, redirect}) {
   return (
     <>
-    <Col sm={6} md={4}>
+    <Col sm={6} md={4} className='card-card-card'>
         <a href={redirect}>
         <div className="proj-imgbx">
         <img src={imgUrl} alt="" />
