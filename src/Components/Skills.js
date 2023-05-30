@@ -42,32 +42,39 @@ function Skills() {
                 <p>I am a passionate web developer eager to learn new tech. I am well versed in M.E.R.N. stack.</p><br/>
                 <Carousel responsive={responsive} infinite={true} className="skill-slider">
                   <div className="item">
-                    <img src={image1} alt="Image" />
-                    <h5>React</h5>
+                    <a href="https://react.dev/">
+                      <img src={image1} alt="Image" />
+                    <h5>React</h5></a>
                   </div>
                   <div className="item">
-                    <img src={image2} alt="Image" />
-                    <h5>Node.js</h5>
+                    <a href="https://www.freecodecamp.org/news/what-exactly-is-node-guide-for-beginners/"><img src={image2} alt="Image" />
+                    <h5>Node.js</h5></a>
                   </div>
                   <div className="item">
-                    <img src={image3} alt="Image" />
-                    <h5>Mongo-DB</h5>
+                    <a href="https://www.mongodb.com/"><img src={image3} alt="Image" />
+                    <h5>Mongo-DB</h5></a>
                   </div>
                   <div className="item">
-                    <img src={image4} alt="Image" />
-                    <h5>Express.js</h5>
+                    <a href="https://www.geeksforgeeks.org/express-js/"><img src={image4} alt="Image" />
+                    <h5>Express.js</h5></a>
                   </div>
                   <div className="item">
+                    <a href="https://www.w3schools.com/css/">
                     <img src={image5} alt="Image" />
                     <h5>CSS</h5>
+                    </a>
                   </div>
                   <div className="item">
+                    <a href="https://www.w3schools.com/html/default.asp">
                     <img src={image6} alt="Image" />
                     <h5>HTML</h5>
+                    </a>
                   </div>
                   <div className="item">
+                    <a href="https://www.w3schools.com/bootstrap/">
                     <img src={image7} alt="Image" />
                     <h5>Bootstrap</h5>
+                    </a>
                   </div>
                 </Carousel>
                </div>
