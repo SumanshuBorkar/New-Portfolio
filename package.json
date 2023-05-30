@@ -1,6 +1,5 @@
 {
   "name": "portfoleo",
-  "homepage": "http://SumanshuBorkar.github.io/Portfolio-Web",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
