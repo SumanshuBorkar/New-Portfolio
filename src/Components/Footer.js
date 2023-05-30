@@ -11,7 +11,7 @@ function Footer() {
             <iframe src={"https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d4878.676913059366!2d79.0571243231141!3d21.070159188105045!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMjHCsDA0JzAzLjMiTiA3OcKwMDMnNDIuOCJF!5e0!3m2!1sen!2sin!4v1685302407017!5m2!1sen!2sin"} 
              allowfullscreen=""
               loading="lazy"
-              referrerpolicy="no-referrer-when-downgrade" 
+              referrerpolicy="no-referrer-when-downgrade"   
               className='map-of-westeros'></iframe>
           <div className="social-icon">
             <a href="https://www.linkedin.com/in/sumanshu-borkar-b83a5b26b/"><img src={navIcon1} alt="imageoficon" /></a>
@@ -21,7 +21,7 @@ function Footer() {
           </div>
     </footer>
   )
-}
+};
 
 
 export default Footer
