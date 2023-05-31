@@ -18,7 +18,7 @@ function Project() {
             title: 'Resume',
             description: 'Full stack engineer',
             imgUrl : img1,
-            redirect: 'https://www.youtube.com/watch?v=bLHxrvDvL_8&list=PLC3y8-rFHvwiRYB4-HHKHblh3_bQNJTMa&index=37'
+            redirect: 'https://drive.google.com/file/d/1CXAX-moeGKabjw83koKdBOoluLdvRpYB/view?usp=share_link'
         },
 
     ]
