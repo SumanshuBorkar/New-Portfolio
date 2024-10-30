@@ -1,12 +1,14 @@
 {
   "files": {
-    "main.css": "/New-Portfolio/static/css/main.f3eb5057.css",
-    "main.js": "/New-Portfolio/static/js/main.0edf00f1.js",
-    "static/js/787.19f6d0f8.chunk.js": "/New-Portfolio/static/js/787.19f6d0f8.chunk.js",
+    "main.css": "/New-Portfolio/static/css/main.5a2f610d.css",
+    "main.js": "/New-Portfolio/static/js/main.e4671587.js",
+    "static/js/453.1407b060.chunk.js": "/New-Portfolio/static/js/453.1407b060.chunk.js",
+    "static/media/4k_NEON.mp4": "/New-Portfolio/static/media/4k_NEON.59daa77c6307c43fadce.mp4",
     "static/media/Resume.png": "/New-Portfolio/static/media/Resume.ade713e6d22da21dcff5.png",
     "static/media/Astro.png": "/New-Portfolio/static/media/Astro.956407c3037602df84bd.png",
     "static/media/PROJECT-img.png": "/New-Portfolio/static/media/PROJECT-img.70e2a6d5fa106a47ddd6.png",
-    "static/media/JWST.jpg": "/New-Portfolio/static/media/JWST.288784bd148620173248.jpg",
+    "static/media/Vegi.png": "/New-Portfolio/static/media/Vegi.081419ccb2789abc18b0.png",
+    "static/media/Flub.png": "/New-Portfolio/static/media/Flub.b4cde4e49d461a80f931.png",
     "static/media/color-sharp.png": "/New-Portfolio/static/media/color-sharp.bea361cfef80fefc2d1e.png",
     "static/media/astronaut-al.png": "/New-Portfolio/static/media/astronaut-al.ce31bf2f3d157ee06d10.png",
     "static/media/CentraNo2-Bold.ttf": "/New-Portfolio/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
@@ -20,21 +22,26 @@
     "static/media/revicons.woff": "/New-Portfolio/static/media/revicons.e8746a624ed098489406.woff",
     "static/media/css-icon.svg": "/New-Portfolio/static/media/css-icon.dbd31fe14ec796185689723739441965.svg",
     "static/media/nodejs-icon.svg": "/New-Portfolio/static/media/nodejs-icon.502737ea1f44b9be4170cafd2bace4e7.svg",
-    "static/media/nav-icon3.svg": "/New-Portfolio/static/media/nav-icon3.08b285abb8e118b52637efa5d65c5367.svg",
+    "static/media/nav-icon3.svg": "/New-Portfolio/static/media/nav-icon3.72cef43bc93b04f52e29f022ef720f8b.svg",
+    "static/media/next-js.svg": "/New-Portfolio/static/media/next-js.1b2b52c044b9dcea988e68b966864c5a.svg",
     "static/media/reactjs-icon.svg": "/New-Portfolio/static/media/reactjs-icon.6c1d44b8c59f0f72ff199a54ceed774c.svg",
+    "static/media/python-5.svg": "/New-Portfolio/static/media/python-5.e6d7dc739a91892bbf1f6262412046dd.svg",
     "static/media/mongodb-icon.svg": "/New-Portfolio/static/media/mongodb-icon.0781b723446e1f8a1734f7831a9c3313.svg",
     "static/media/getbootstrap-icon.svg": "/New-Portfolio/static/media/getbootstrap-icon.5d590f6c245312fdf16a7e8ab1d6ba44.svg",
     "static/media/github-mark-white.svg": "/New-Portfolio/static/media/github-mark-white.97ed8e7eef60d61ca469881dd6f34511.svg",
+    "static/media/typescript.svg": "/New-Portfolio/static/media/typescript.a6305a733dd55243980aec55f96f70c5.svg",
+    "static/media/figma-icon.svg": "/New-Portfolio/static/media/figma-icon.f8a59847e765256ccc3cf1d29481131c.svg",
     "static/media/expressjs-icon.svg": "/New-Portfolio/static/media/expressjs-icon.632d3c32e6c8f71f7f7faf4fb71b945b.svg",
+    "static/media/angular-icon.svg": "/New-Portfolio/static/media/angular-icon.e6ed573fa80c0dc1bf57730930ac0158.svg",
     "index.html": "/New-Portfolio/index.html",
-    "static/media/nav-icon1.svg": "/New-Portfolio/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
+    "static/media/nav-icon1.svg": "/New-Portfolio/static/media/nav-icon1.dff40ae802524d8fc0cbce3f312abe4f.svg",
     "static/media/HTML.svg": "/New-Portfolio/static/media/HTML.87f3f64abde68319b96661c04229b687.svg",
-    "main.f3eb5057.css.map": "/New-Portfolio/static/css/main.f3eb5057.css.map",
-    "main.0edf00f1.js.map": "/New-Portfolio/static/js/main.0edf00f1.js.map",
-    "787.19f6d0f8.chunk.js.map": "/New-Portfolio/static/js/787.19f6d0f8.chunk.js.map"
+    "main.5a2f610d.css.map": "/New-Portfolio/static/css/main.5a2f610d.css.map",
+    "main.e4671587.js.map": "/New-Portfolio/static/js/main.e4671587.js.map",
+    "453.1407b060.chunk.js.map": "/New-Portfolio/static/js/453.1407b060.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f3eb5057.css",
-    "static/js/main.0edf00f1.js"
+    "static/css/main.5a2f610d.css",
+    "static/js/main.e4671587.js"
   ]
 }
