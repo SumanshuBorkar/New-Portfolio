@@ -5,7 +5,7 @@ import img1 from './../assets/img/Resume.png';
 import img2 from './../assets/img/PROJECT-img.png';
 import img3 from './../assets/img/Flub.png';
 import img4 from "./../assets/img/Vegi.png";
-import img5 from "./../assets/img/PDFprocessor.png";
+import img5 from "./../assets/img/PDFProcessor.jpg";
 import Footer from './Footer';
 
 function Project() {
