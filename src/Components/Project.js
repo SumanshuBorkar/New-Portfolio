@@ -5,6 +5,7 @@ import img1 from './../assets/img/Resume.png';
 import img2 from './../assets/img/PROJECT-img.png';
 import img3 from './../assets/img/Flub.png';
 import img4 from "./../assets/img/Vegi.png";
+import img5 from "./../assets/img/PDFprocessor.png";
 import Footer from './Footer';
 
 function Project() {
@@ -14,7 +15,7 @@ function Project() {
     { title: 'Car Rental App', description: 'M.E.R.N Project', imgUrl: img2, redirect: 'https://car-rental-project.vercel.app/' },
     { title: 'Flub', description: 'Social Media App', imgUrl: img3, redirect: 'https://flub-fontend.vercel.app/' },
     { title: 'Vegi Store', description: 'E-Commerce', imgUrl: img4, redirect: 'https://vegi-store.onrender.com/' },
-    
+    { title: 'AI-Recipt-Processor', description: 'A full-stack application for processing and analyzing PDF documents', imgUrl: img5, redirect: 'ai-recipt-processor.vercel.app' },
      ];
 
   // Split projects into groups of 6
